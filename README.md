@@ -63,7 +63,7 @@ This is part of my data storytelling and reporting portfolio. I wanted to explor
 ## 📫 Let’s Connect
 
 If you found this useful or want to collaborate on more projects:
-- 💼 [Connect with me on LinkedIn](www.linkedin.com/in/mzukisi-soci)
+- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/mzukisi-soci/)
 - 📬 Drop me a message!
 
 ---
