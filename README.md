@@ -35,9 +35,7 @@ This dashboard was built to demonstrate real-time data integration and visual st
 
 ## 📸 Screenshots
 
-| KPI Summary | Top Movers |
-|-------------|------------|
-| ![Dashboard Screenshot 1](images/crypto-currency-dashboard.png) 
+[Dashboard Screenshot 1](images/crypto-currency-dashboard.png) 
 
 ---
 
