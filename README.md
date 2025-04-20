@@ -35,7 +35,8 @@ This dashboard was built to demonstrate real-time data integration and visual st
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot 1](images/dashboard-overview.png)
+| ![Dashboard Screenshot 1](images/dashboard-overview.png) | 
+
 
 ---
 
